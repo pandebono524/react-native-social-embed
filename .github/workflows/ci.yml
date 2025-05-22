@@ -21,6 +21,9 @@ jobs:
       - name: Setup
         uses: ./.github/actions/setup
 
+      - name: Fix linting issues
+        run: yarn lint:fix
+
       - name: Lint files
         run: yarn lint
 
