@@ -41,20 +41,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bricezele/react-native-social-embed.git"
+    "url": "git+https://github.com/pandebono524/react-native-social-embed.git"
   },
-  "author": "Brice Zele <bricezele1@gmail.com> (https://github.com/bricezele)",
+  "author": "Pandebono <pandebono1012@gmail.com> (https://github.com/pandebono524)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bricezele/react-native-social-embed/issues"
+    "url": "https://github.com/pandebono524/react-native-social-embed/issues"
   },
-  "homepage": "https://github.com/bricezele/react-native-social-embed#readme",
+  "homepage": "https://github.com/pandebono524/react-native-social-embed#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
     "@evilmartians/lefthook": "^1.5.0",
+    "@react-native/babel-preset": "^0.73.4",
     "@react-native/eslint-config": "^0.72.2",
     "@release-it/conventional-changelog": "^5.0.0",
     "@types/jest": "^28.1.2",
